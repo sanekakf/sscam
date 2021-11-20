@@ -2,7 +2,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 			<meta name="viewport" content="width=device-width,initial-scale=1">
 		<meta name="theme-color" content="#171a21">
-		<title>Dota 2 в Steam</title>
+		<title>Dota 3 в Steam</title>
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 	
@@ -74,7 +74,7 @@
 					<meta property="fb:app_id" content="105386699540688">
 					<meta property="og:site" content="Steam">
 					<meta property="og:url" content="https://store.steampowered.com/app/570/Dota_2/">
-					<meta property="og:description" content="Ежедневно миллионы игроков по всему миру сражаются от лица одного из более сотни героев Dota 2, и даже после тысячи часов в ней есть чему научиться. Благодаря регулярным обновлениям игра живёт своей жизнью: геймплей, возможности и герои постоянно преображаются.">
+					<meta property="og:description" content="Ежедневно миллионы игроков по всему миру сражаются от лица одного из более сотни героев Dota 3, и даже после тысячи часов в ней есть чему научиться. Благодаря регулярным обновлениям игра живёт своей жизнью: геймплей, возможности и герои постоянно преображаются.">
 					<meta property="twitter:description" content="Ежедневно миллионы игроков по всему миру сражаются от лица одного из более сотни героев Dota 2, и даже после тысячи часов в ней есть чему научиться. Благодаря регулярным обновлениям игра живёт своей жизнью: геймплей, возможности и герои постоянно преображаются.">
 			
 			<link rel="canonical" href="https://store.steampowered.com/app/570/Dota_2/">
